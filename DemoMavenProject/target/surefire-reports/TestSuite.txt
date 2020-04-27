@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 5, Time elapsed: 1.726 s <<< FAILURE! - in TestSuite
+Academy.Homepage.openbrowser  Time elapsed: 1.286 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Academy.Homepage.openbrowser(Homepage.java:18)
+
+Academy.assertValidation.openbrowser  Time elapsed: 0.097 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Academy.assertValidation.openbrowser(assertValidation.java:17)
+
